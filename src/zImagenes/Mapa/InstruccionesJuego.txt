@@ -1,0 +1,33 @@
+Instrucciones de juego:
+
+El juego consiste en un tower defense corto (dos niveles) en donde deberás colocar torres a lo largo
+de los 3 carriles del mapa para impedir que los mounstruos avancen. Las torres tienen un costo
+en oro, así que sólo podrán ser construidas si tienes el oro suficiente. El oro se obtendrá de eliminar
+enemigos. Ganarás la partida si logras vencer a los enemigos de los dos niveles sin que tu vida se reduzca a 0.
+Si tu vida llega a 0 (perderás vida cada vez que los mounstruos avancen a la izquierda y salgan del mapa) entonces perderás.
+
+POWER UPS: 
+
+También podrás utilizar los Power Ups que dejan los mounstruos al morir. Deberás capturarlos
+haciendo click sobre ellos y utilizarlos cuando los desees:
+
+Campo es un powerup que permite agregar un campo de protección a la torre que selecciones, 
+y si algún enemigo toca ese campo, este explotará y morirá instantaneamente.
+
+Bomba es un powerup que permite lanzar una bomba sobre alguno de los carriles del mapa. La bomba
+detonará al tener contacto tanto con una torre como con un enemigo, así que cuidado donde la colocas. 
+La misma tiene un cierto alcance y puede afectar a varios personajes en simultaneo.
+
+Duplicar Fuerza es un powerup que por 5 segundos duplicará la fuerza de todas tus torres, haciendo
+que las mismas golpeen más fuerte a los enemigos. Luego de esos 5 segundos, tus torres volverán a la normalidad.
+
+Congelar es un powerup que detendrá a los enemigos por 5 segundos para que no avancen y puedan
+ser golpeados por tus torres. Luego de esos 5 segundos, los mounstruos volverán a la normalidad.
+
+Duplicar Velocidad es un powerup que duplicará la velocidad de ataque de tus torres; es decir,
+atacarán con más frecuencia. Luego de esos 5 segundos, tus torres volverán a la normalidad.
+
+
+
+
+
